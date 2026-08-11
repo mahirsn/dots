@@ -1,0 +1,11 @@
+[Unit]
+Description=Switch ASUS keyboard backlight to EC mode
+After=multi-user.target
+
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/hidapitester --vidpid 0B05/19B6 --open --send-feature 70,1
+RemainAfterExit=yes
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,1 @@
+ACTION=="add", SUBSYSTEM=="hidraw", ATTRS{idVendor}=="0b05", ATTRS{idProduct}=="19b6", RUN+="/usr/bin/hidapitester --vidpid 0B05/19B6 --open --send-feature 70,1"

@@ -1,0 +1,36 @@
+# CachyOS-specific packages - DO NOT install on plain Arch
+# Count: 32
+# Used by CachyOS only; alternatives described in README + MIGRATION_REPORT
+#
+cachyos-emerald-kde-theme-git
+cachyos-fish-config
+cachyos-hello
+cachyos-hooks
+cachyos-iridescent-kde
+cachyos-kde-settings
+cachyos-kernel-manager
+cachyos-keyring
+cachyos-micro-settings
+cachyos-mirrorlist
+cachyos-nord-kde-theme-git
+cachyos-packageinstaller
+cachyos-plymouth-bootanimation
+cachyos-plymouth-theme
+cachyos-rate-mirrors
+cachyos-settings
+cachyos-snapper-support
+cachyos-v3-mirrorlist
+cachyos-v4-mirrorlist
+cachyos-wallpapers
+cachyos-zsh-config
+cachy-update
+chwd
+limine-mkinitcpio-hook
+limine-snapper-sync
+linux-cachyos
+linux-cachyos-headers
+linux-cachyos-lts
+linux-cachyos-lts-headers
+linux-cachyos-lts-nvidia-open
+linux-cachyos-nvidia-open
+char-white

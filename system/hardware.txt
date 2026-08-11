@@ -1,0 +1,37 @@
+===== HARDWARE (lspci -k / lsblk summary) =====
+Laptop: ASUS TUF Gaming A16 (2024, Model in /sys; subsystem ASUSTeK 3d48)
+
+--- Graphics / Driver stack ---
+01:00.0 NVIDIA GB206M [GeForce RTX 5070 Max-Q/Mobile] (rev a1)
+        Kernel driver: nvidia (module: nouveau, nvidia_drm, nvidia)
+01:00.1 NVIDIA High Definition Audio (kernel: snd_hda_intel)
+05:00.0 AMD/ATI Raphael [Radeon 610M iGPU] (rev d8)
+        Kernel driver: amdgpu
+05:00.1 Radeon HD Audio (kernel: snd_hda_intel)
+05:00.6 Realtek ALC1220 HD Audio (kernel: snd_hda_intel)
+
+--- ASUS / platform chips ---
+00:00.0 AMD root complex driver: ryzen_smu (dkms: ryzen_smu-dkms-git)
+00:18.3 k10temp
+ASUS EC / keyboard HID: vendor 0b05 product 19b6 (hidapitester --vidpid 0B05/19B6)
+
+--- CPU & platform ---
+AMD Ryzen 9 8940HX (Family 25, Zen4), 32 threads
+NUMA 1 node; ryzenadj + cpupower installed
+amd-pstate active (active-passive switch workaround service exists)
+
+--- Storage ---
+/dev/nvme0n1:
+  p1 vfat FAT32 EFI "4AB2-DCB8"      -> /boot   (mount: vfat, umask=0077)
+  p2 btrfs "99b9e01c..."              -> root, /home, /root, /srv, /var/{cache,tmp,log}
+  p3 ext4 "c7d9bf4d..." label "lib"  -> /mnt/lib (69% used, 127.8G free)
+swap: zram0 (swap on zram)
+
+--- Audio ---
+pipewire + wireplumber (pipewire-alsa, gst-plugin-pipewire)
+easyeffects on autostart (service mode)
+btop, cava, mpv available
+
+--- Peripherals / misc ---
+Bluetooth (bluez) enabled, avahi, modemmanager present
+kdeconnect, scrcpy (usb), evtest/libinput-tools for input debugging

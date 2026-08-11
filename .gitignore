@@ -1,0 +1,46 @@
+# --- secrets / credentials (NEVER commit) ---
+.env
+*.key
+*.pem
+id_rsa
+id_ed25519
+credentials*
+credentials/
+secrets*
+secrets/
+token*
+tokens*
+cookies*
+cookie*
+*.vault
+*.kdbx
+INSTALL.md
+MIGRATION_REPORT.md
+README.md
+
+# --- caches / runtime ---
+cache/
+.cache/
+*.Cache
+Cache/
+GPUCache/
+Crashpad/
+blob_storage/
+sessionData/
+Local Storage/
+IndexedDB/
+Code Cache/
+*.log
+*.swp
+*~
+.DS_Store
+
+# --- editor / build junk ---
+node_modules/
+*.asar
+__pycache__/
+venv/
+.venv/
+
+# --- backup dir created by scripts/install.sh ---
+dots-backup-*/

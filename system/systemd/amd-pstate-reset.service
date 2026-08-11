@@ -1,0 +1,10 @@
+[Unit]
+Description=Reset AMD P-State state
+After=multi-user.target
+
+[Service]
+Type=oneshot
+ExecStart=/bin/bash -c 'echo passive > /sys/devices/system/cpu/amd_pstate/status && sleep 1 && echo active > /sys/devices/system/cpu/amd_pstate/status'
+
+[Install]
+WantedBy=multi-user.target

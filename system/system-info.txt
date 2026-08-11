@@ -1,0 +1,60 @@
+===== SYSTEM INFO (collected from the source CachyOS machine) =====
+Generated: 2026-08-11
+
+--- OS ---
+NAME:            CachyOS Linux
+ID:              cachyos
+ID_LIKE:         arch
+BUILD_ID:        rolling
+
+--- Kernel (in use) ---
+Kernel:          6.18.42-1-cachyos-lts (linux-cachyos-lts, PREEMPT_DYNAMIC)
+hostname:        "cacik"
+microcode:       amd-ucode
+
+Installed kernels (CachyOS-specific):
+  linux-cachyos 7.1.6-1 (main)
+  linux-cachyos-lts 6.18.42-1 (in use)
+  linux-cachyos-lts-nvidia-open (matching nvidia-open for LTS)
+  linux-cachyos-nvidia-open
+
+--- CPU ---
+AMD Ryzen 9 8940HX (16C/32T, Dragon Range/Hawk Point class)
+Scaling max:   ~5386 MHz | min 421 MHz
+Governor:      powersave
+amd-pstate:    active  (status file /sys/devices/system/cpu/amd_pstate/status)
+
+--- GPU ---
+[0] NVIDIA RTX 5070 Laptop GPU (GB206M)  -- driver: nvidia (proprietary)
+    nvidia 610.57.04, nvidia-utils, lib32-nvidia-utils, opencl-nvidia, libva-nvidia-driver
+    Driver module: nvidia / nvidia_drm (modeset=1) / nvidia_uvm / nvidia_modeset
+[1] AMD Radeon 610M iGPU (Raphael, amdgpu) + Radeon HD Audio
+    driver: amdgpu (kernel modesetting)
+
+GPU mode (supergfxctl): Hybrid
+Display:     Wayland (Hyprland session)
+Desktop:     XDG_CURRENT_DESKTOP=Hyprland
+Display manager: plasma-login-manager (plasmalogin.service -> display-manager)
+
+--- Memory ---
+swap: zram (zram0)
+
+--- Storage ---
+nvme0n1:
+  p1 vfat  -> /boot (EFI, limine)
+  p2 btrfs -> / (subvol @, zstd:1), /home (@home), /root (@root), /srv (@srv),
+              /var/cache (@cache), /var/tmp (@tmp), /var/log (@log)
+  p3 ext4  -> /mnt/lib (data partition, label "lib")
+/tmp on tmpfs
+
+--- Boot ---
+Bootloader: limine (+ limine-snapper-sync, limine-mkinitcpio-hook)
+snapper snapshots on @ (boot managers: limine, snapshots via sd-btrfs-overlayfs)
+
+--- Shell / User ---
+default shell: /usr/bin/zsh  (user: mahirsn, uid 1000)
+Also: fish installed and used as foot's shell (foot.ini: shell=fish)
+
+--- Network ---
+NetworkManager (+ iwd as wifi backend), systemd-resolved,
+dnscrypt-proxy, zapret (DPi bypass), ufw firewall (enabled)

@@ -1,0 +1,12 @@
+[Unit]
+Description=Switch ASUS keyboard lighting to Embedded Controller mode
+Before=asusd.service
+After=systemd-udev-settle.service
+Wants=systemd-udev-settle.service
+
+[Service]
+Type=oneshot
+ExecStart=/usr/local/sbin/asus-kbd-ecmode
+
+[Install]
+WantedBy=multi-user.target
