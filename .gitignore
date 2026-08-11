@@ -44,3 +44,6 @@ venv/
 
 # --- backup dir created by scripts/install.sh ---
 dots-backup-*/
+
+# --- noctalia plugin source clones (partial clones, not standalone backup) ---
+state/noctalia/plugins/sources/

@@ -1,0 +1,462 @@
+config_version = 11
+
+[accessibility]
+ui_scale = 1.1500000096857548
+
+[backdrop]
+enabled = true
+tint_intensity = 0.4999999888241291
+
+[bar]
+order = [ "default" ]
+
+    [bar.default]
+    capsule = true
+    center = [ "media", "weather", "clock", "taskbar" ]
+    end = [ "keyboard_layout", "group:g7", "mpvpaper" ]
+    font_family = "SF Pro"
+    margin_edge = 0
+    margin_ends = 0
+    padding = 4
+    radius = 40
+    radius_bottom_left = 16
+    radius_bottom_right = 16
+    start = [ "workspaces", "group:g6" ]
+    widget_spacing = 8
+
+        [[bar.default.capsule_group]]
+        accordion = false
+        accordion_direction = "end"
+        enabled = true
+        fill = "surface_variant"
+        id = "g7"
+        members = [
+            "tray",
+            "recorder",
+            "bluetooth",
+            "volume",
+            "widget_2",
+            "network",
+            "notifications",
+            "power_profile",
+            "battery",
+            "bar"
+        ]
+        opacity = 1.0
+        padding = 6.0
+
+        [[bar.default.capsule_group]]
+        accordion = false
+        accordion_direction = "end"
+        enabled = true
+        fill = "surface_variant"
+        id = "g6"
+        members = [ "temp", "cpu", "ram" ]
+        opacity = 1.0
+        padding = 6.0
+
+[battery.device."/org/freedesktop/UPower/devices/headset_dev_B0_38_E2_5A_C9_EE"]
+warning_threshold = 30
+
+[brightness]
+enable_ddcutil = true
+
+[calendar]
+enabled = true
+
+    [calendar.account.personal_google]
+    type = "google"
+
+[control_center]
+sidebar = "none"
+sidebar_section = "none"
+
+    [[control_center.shortcuts]]
+    type = "bluetooth"
+
+    [[control_center.shortcuts]]
+    type = "notification"
+
+    [[control_center.shortcuts]]
+    type = "power_profile"
+
+    [[control_center.shortcuts]]
+    type = "audio"
+
+    [[control_center.shortcuts]]
+    type = "wifi"
+
+    [[control_center.shortcuts]]
+    type = "wallpaper"
+
+[desktop_widgets]
+schema_version = 1
+widget_order = []
+
+    [desktop_widgets.grid]
+    cell_size = 16
+    major_interval = 4
+    visible = true
+
+    [desktop_widgets.widget]
+
+[dock]
+auto_hide = true
+background_opacity = 0.99999997764825821
+enabled = true
+inactive_opacity = 0.99999997764825821
+magnification_scale = 1.1500000022351742
+pinned = [
+    "discord",
+    "zen",
+    "spotify",
+    "steam",
+    "obsidian",
+    "termius",
+    "org.freesmlauncher.FreesmLauncher",
+    "org.kde.dolphin",
+    "kitty",
+    "idea",
+    "android-studio",
+    "cursor",
+    "com.obsproject.Studio",
+    "com.blackmagicdesign.resolve",
+    "blender",
+    "dev.zed.Zed"
+]
+radius = 80
+reserve_space = false
+show_dots = true
+
+[keybinds]
+validate = [ "Return", "KP_Enter" ]
+
+[location]
+address = "Batman, Turkey"
+
+[lockscreen]
+wallpaper = "/home/mahirsn/Pictures/Wallpapers/LootriverCastle_1920x1080.png"
+
+[lockscreen_widgets]
+enabled = true
+schema_version = 1
+widget_order = [
+    "lockscreen-login-box@eDP-1",
+    "lockscreen-login-box@HDMI-A-1",
+    "lockscreen-login-box@eDP-2",
+    "lockscreen-login-box@WAYLAND-1",
+    "lockscreen-login-box@DP-2",
+    "lockscreen-widget-0000000000000001"
+]
+
+    [lockscreen_widgets.grid]
+    cell_size = 64
+    major_interval = 4
+    visible = true
+
+    [lockscreen_widgets.widget."lockscreen-login-box@DP-2"]
+    box_height = 196.0
+    box_width = 720.0
+    cx = 960.0
+    cy = 540.0
+    output = "DP-2"
+    rotation = 0.0
+    type = "login_box"
+
+        [lockscreen_widgets.widget."lockscreen-login-box@DP-2".settings]
+        center_password_text = false
+        layout = "regular"
+        show_caps_lock = true
+        show_keyboard_layout = true
+        show_login_button = true
+        show_media = true
+        show_session_buttons = true
+        show_unlock_hint = true
+        show_weather = true
+
+    [lockscreen_widgets.widget."lockscreen-login-box@HDMI-A-1"]
+    box_height = 196.0
+    box_width = 810.0
+    cx = 960.0
+    cy = 898.0
+    output = "HDMI-A-1"
+    rotation = 0.0
+    type = "login_box"
+
+        [lockscreen_widgets.widget."lockscreen-login-box@HDMI-A-1".settings]
+        background_color = "surface_variant"
+        background_opacity = 0.88
+        background_radius = 12.0
+        center_password_text = false
+        input_opacity = 1.0
+        input_radius = 6.0
+        layout = "regular"
+        show_caps_lock = true
+        show_keyboard_layout = true
+        show_login_button = true
+        show_media = true
+        show_session_buttons = true
+        show_unlock_hint = true
+        show_weather = true
+
+    [lockscreen_widgets.widget."lockscreen-login-box@WAYLAND-1"]
+    box_height = 196.0
+    box_width = 720.0
+    cx = 320.0
+    cy = 241.0
+    output = "WAYLAND-1"
+    rotation = 0.0
+    type = "login_box"
+
+        [lockscreen_widgets.widget."lockscreen-login-box@WAYLAND-1".settings]
+        background_color = "surface_variant"
+        background_opacity = 0.88
+        background_radius = 12.0
+        center_password_text = false
+        input_opacity = 1.0
+        input_radius = 6.0
+        layout = "regular"
+        show_caps_lock = true
+        show_keyboard_layout = true
+        show_login_button = true
+        show_media = true
+        show_session_buttons = true
+        show_unlock_hint = true
+        show_weather = true
+
+    [lockscreen_widgets.widget."lockscreen-login-box@eDP-1"]
+    box_height = 196.0
+    box_width = 810.0
+    cx = 1024.0
+    cy = 1098.0
+    output = "eDP-1"
+    rotation = 0.0
+    type = "login_box"
+
+        [lockscreen_widgets.widget."lockscreen-login-box@eDP-1".settings]
+        background_color = "surface_variant"
+        background_opacity = 0.88
+        background_radius = 12.0
+        center_password_text = false
+        input_opacity = 1.0
+        input_radius = 6.0
+        layout = "regular"
+        show_caps_lock = true
+        show_keyboard_layout = true
+        show_login_button = true
+        show_media = true
+        show_session_buttons = true
+        show_unlock_hint = true
+        show_weather = true
+
+    [lockscreen_widgets.widget."lockscreen-login-box@eDP-2"]
+    box_height = 196.0
+    box_width = 810.0
+    cx = 1024.0
+    cy = 1098.0
+    output = "eDP-2"
+    rotation = 0.0
+    type = "login_box"
+
+        [lockscreen_widgets.widget."lockscreen-login-box@eDP-2".settings]
+        background_color = "surface_variant"
+        background_opacity = 0.88
+        background_radius = 12.0
+        center_password_text = false
+        input_opacity = 1.0
+        input_radius = 6.0
+        layout = "regular"
+        show_caps_lock = true
+        show_keyboard_layout = true
+        show_login_button = true
+        show_media = true
+        show_session_buttons = true
+        show_unlock_hint = true
+        show_weather = true
+
+    [lockscreen_widgets.widget.lockscreen-widget-0000000000000001]
+    box_height = 128.0
+    box_width = 256.0
+    cx = 960.0
+    cy = 348.0
+    output = "DP-2"
+    rotation = 0.0
+    type = "clock"
+
+        [lockscreen_widgets.widget.lockscreen-widget-0000000000000001.settings]
+        background = true
+        background_opacity = 0.77000000000000002
+        background_padding = 14.0
+        background_radius = 24.0
+        color = "tertiary"
+        shadow = false
+
+[notification]
+position = "top_center"
+
+[osd]
+background_opacity = 0.99999997764825821
+
+    [osd.kinds]
+    media = false
+
+[plugin_settings."blackbartblues/audio-switcher"]
+show_percentage = false
+
+[plugin_settings."icefish/phone-connect"]
+details_floating_placement = "attached"
+details_widget_placement = "attached"
+panel_placement = "widget"
+
+[plugin_settings."noctalia/mpvpaper"]
+video_directory = "/home/mahirsn/Pictures/Wallpapers"
+
+[plugin_settings."radimous/prismlauncher-instances"]
+launcher_exec_command = "freesmlauncher"
+prism_path = "/home/mahirsn/.local/share/FreesmLauncher/"
+
+[plugins]
+enabled = [
+    "noctalia/screen_recorder",
+    "radimous/prismlauncher-instances",
+    "cleboost/jetbrains-provider",
+    "blackbartblues/audio-switcher",
+    "tadomika_ari/config-swap",
+    "icefish/phone-connect"
+]
+
+[shell]
+app_icon_color = "primary"
+avatar_path = "/home/mahirsn/Pictures/Mahir/penup_20260212_150919.jpg"
+corner_radius_scale = 2.0
+font_family = "SF Pro"
+launch_apps_as_systemd_services = true
+niri_overview_type_to_launch_enabled = true
+password_style = "random"
+polkit_agent = true
+screen_time_enabled = true
+settings_show_advanced = true
+telemetry_enabled = true
+ui_scale = 1.2000000104308128
+
+    [shell.launcher]
+    categories = false
+    session_search = true
+    sort_by_usage = false
+
+    [shell.panel]
+    launcher_categories = false
+    launcher_session_search = true
+    open_near_click_control_center = true
+
+    [shell.screen_corners]
+    enabled = true
+
+    [shell.shadow]
+    direction = "center"
+
+[theme]
+builtin = "Ayu"
+community_palette = "Catppuccin Macchiato Sapphire"
+custom_palette = "v4-nord"
+mode = "dark"
+source = "wallpaper"
+wallpaper_scheme = "m3-monochrome"
+
+    [theme.templates]
+    builtin_ids = [ "btop", "gtk3", "gtk4", "hyprland", "kcolorscheme", "kitty", "niri" ]
+    community_ids = [ "yazi" ]
+
+[wallpaper]
+directory = "/home/mahirsn/Pictures/Wallpapers"
+transition = [ "disc", "fade", "honeycomb", "stripes", "wipe", "zoom" ]
+
+    [wallpaper.default]
+    path = "/home/mahirsn/Pictures/Wallpapers/wp4766531.png"
+
+    [wallpaper.last]
+    path = "/home/mahirsn/Pictures/Wallpapers/wp4766531.png"
+
+    [wallpaper.monitors.DP-2]
+    path = "/home/elrond/Pictures/Wallpapers/wallhaven-je5wl5_1920x1080.png"
+
+    [wallpaper.monitors.eDP-2]
+    path = "/home/mahirsn/Pictures/Wallpapers/wp4766531.png"
+
+    [[wallpaper.favorite]]
+    palette_source = "wallpaper"
+    path = "/home/mahirsn/Pictures/Wallpapers/wp4766531.png"
+    theme_mode = "dark"
+    wallpaper_scheme = "m3-monochrome"
+
+[weather]
+address = "Samsun, Turkey"
+
+[widget.bar]
+type = "icefish/phone-connect:bar"
+
+[widget.battery]
+display_mode = "graphic"
+show_label = false
+
+[widget.bongocat]
+input_device = ""
+scope = "shared"
+script = "scripts/bongocat.lua"
+type = "scripted"
+
+[widget.clock]
+anchor = true
+color = "primary"
+format = "{:%a %d, %H:%M}"
+
+[widget.control-center]
+color = "primary"
+
+[widget.cpu]
+display = "text"
+
+[widget.media]
+album_art_only = true
+color = "primary"
+max_length = 160
+title_scroll = "on_hover"
+
+[widget.mpvpaper]
+type = "noctalia/mpvpaper:mpvpaper"
+
+[widget.network]
+capsule = true
+show_label = false
+
+[widget.notifications]
+color = "secondary"
+
+[widget.ram]
+display = "text"
+
+[widget.recorder]
+type = "noctalia/screen_recorder:recorder"
+
+[widget.screen_recorder]
+script = "scripts/screen_recorder.lua"
+type = "scripted"
+
+[widget.tray]
+drawer = true
+
+[widget.volume]
+show_label = false
+
+[widget.wallhaven]
+type = "noctalia/wallhaven:wallhaven"
+
+[widget.weather]
+color = "primary"
+show_condition = false
+
+[widget.widget_2]
+type = "blackbartblues/audio-switcher:widget"
+
+[widget.workspaces]
+capsule = true

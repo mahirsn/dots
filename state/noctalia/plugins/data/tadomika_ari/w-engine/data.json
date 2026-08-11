@@ -1,0 +1,42 @@
+{
+  "current": {
+    "eDP-2": "3553595416"
+  },
+  "cycle": {
+    "eDP-2": {
+      "enabled": false,
+      "minutes": 15,
+      "order": "sequential"
+    }
+  },
+  "defaults": {
+    "engine": {}
+  },
+  "favorites": {},
+  "options": {
+    "3352653753": {
+      "engine": {
+        "no_fullscreen_pause": false,
+        "scaling": "fit"
+      },
+      "properties": {}
+    },
+    "3553595416": {
+      "engine": {
+        "scaling": "fill"
+      },
+      "properties": {}
+    },
+    "3640636861": {
+      "engine": {
+        "scaling": "fit"
+      },
+      "properties": {}
+    }
+  },
+  "personnalPath": {},
+  "saved_wallpaper": {
+    "eDP-2": "/home/mahirsn/Pictures/Wallpapers/LootriverCastle_1920x1080.png"
+  },
+  "selection": {}
+}

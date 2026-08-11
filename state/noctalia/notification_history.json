@@ -1,0 +1,3101 @@
+{
+  "change_serial": 471,
+  "entries": [
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 33,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "gerci",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1786040865744,
+        "icon": null,
+        "id": 16,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_fbe9f77d00a28b802d1c274fd878a711.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786040859744,
+        "summary": "⁨elrond⁩ (⁨MOD ʖᔑꖌ╎∷⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 35,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "modrinthe benziyor daha cok da",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1786040868084,
+        "icon": null,
+        "id": 17,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_fbe9f77d00a28b802d1c274fd878a711.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786040862084,
+        "summary": "⁨elrond⁩ (⁨MOD ʖᔑꖌ╎∷⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 41,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "benziyor",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1786041975432,
+        "icon": null,
+        "id": 19,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_4bd90581cd087b0148d1ac481ca615b8.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786041969432,
+        "summary": "⁨qtay⁩ (⁨MOD ʖᔑꖌ╎∷⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 44,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "https://drive.google.com/file/d/1Tms7gBiKkNcKcPiXk_fG94khaDhkQdnx/view?usp=sharing",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1786043605993,
+        "icon": null,
+        "id": 21,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_df51fdf313897214bdeefa65dee2e940.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786043599993,
+        "summary": "⁨M_Ali-Karpuz⁩ (⁨pis fakirler⁩, ⁨Voice chambers⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 47,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "https://x.com/MaxForAI/status/2085386467963269451",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1786043707317,
+        "icon": null,
+        "id": 22,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_fbe9f77d00a28b802d1c274fd878a711.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786043701317,
+        "summary": "⁨elrond⁩ (⁨MOD ʖᔑꖌ╎∷⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 49,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "ebesinin horekesi",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1786043708943,
+        "icon": null,
+        "id": 23,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_fbe9f77d00a28b802d1c274fd878a711.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786043702943,
+        "summary": "⁨elrond⁩ (⁨MOD ʖᔑꖌ╎∷⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 51,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1786119215771,
+        "icon": null,
+        "id": 24,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_6f782cd9b163e96440e068d6ccb5b10d.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786119209771,
+        "summary": "⁨VoiceMaster⁩ (⁨:(⁩, ⁨Voice chambers⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 53,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "⁨@Mahir⁩",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1786119216604,
+        "icon": null,
+        "id": 25,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_6f782cd9b163e96440e068d6ccb5b10d.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786119210604,
+        "summary": "⁨VoiceMaster⁩ (⁨:(⁩, ⁨Voice chambers⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 55,
+      "notification": {
+        "actions": [
+          "run",
+          "Run Cachy-Update",
+          "close",
+          "Close"
+        ],
+        "app_name": "Cachy-Update",
+        "body": "153 updates available",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1786121951127,
+        "icon": "cachy-update_updates-available-blue",
+        "id": 26,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1786121945127,
+        "summary": "Cachy-Update",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 57,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1786135356497,
+        "icon": null,
+        "id": 27,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_6f782cd9b163e96440e068d6ccb5b10d.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786135350497,
+        "summary": "⁨VoiceMaster⁩ (⁨:(⁩, ⁨Voice chambers⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 62,
+      "notification": {
+        "actions": [
+          "run",
+          "Run Cachy-Update",
+          "close",
+          "Close"
+        ],
+        "app_name": "Cachy-Update",
+        "body": "267 updates available",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1786180120211,
+        "icon": "cachy-update_updates-available-blue",
+        "id": 29,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1786180114211,
+        "summary": "Cachy-Update",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 64,
+      "notification": {
+        "actions": [],
+        "app_name": "Network Management",
+        "body": "Connection 'SURNET' deactivated.",
+        "category": null,
+        "desktop_entry": "org.kde.kded6",
+        "expiry_wall_ms": 1786186148095,
+        "icon": "network-wireless-disconnected",
+        "id": 31,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1786186142095,
+        "summary": "SURNET",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 75,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "konus",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1786195355075,
+        "icon": null,
+        "id": 46,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_300b0e042eca6cc063cd447c9dd9ff8c.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786195349075,
+        "summary": "⁨furkankskn⁩ (⁨MOD ʖᔑꖌ╎∷⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 77,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "amk",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1786195355438,
+        "icon": null,
+        "id": 47,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_300b0e042eca6cc063cd447c9dd9ff8c.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786195349438,
+        "summary": "⁨furkankskn⁩ (⁨MOD ʖᔑꖌ╎∷⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 79,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "Uploaded image.png",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1786195358212,
+        "icon": null,
+        "id": 48,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_300b0e042eca6cc063cd447c9dd9ff8c.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786195352212,
+        "summary": "⁨furkankskn⁩ (⁨MOD ʖᔑꖌ╎∷⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 81,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "sorunu soylemiyo",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1786195359086,
+        "icon": null,
+        "id": 49,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_300b0e042eca6cc063cd447c9dd9ff8c.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786195353086,
+        "summary": "⁨furkankskn⁩ (⁨MOD ʖᔑꖌ╎∷⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 83,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "trip atmaya",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1786195361041,
+        "icon": null,
+        "id": 50,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_300b0e042eca6cc063cd447c9dd9ff8c.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786195355041,
+        "summary": "⁨furkankskn⁩ (⁨MOD ʖᔑꖌ╎∷⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 85,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "gelmis",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1786195362261,
+        "icon": null,
+        "id": 51,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_300b0e042eca6cc063cd447c9dd9ff8c.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786195356261,
+        "summary": "⁨furkankskn⁩ (⁨MOD ʖᔑꖌ╎∷⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 90,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "sa",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1786199964706,
+        "icon": null,
+        "id": 57,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_e1021ff45646defbd629823cd52eb04f.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786199958706,
+        "summary": "⁨Astro⁩ (⁨MOD ʖᔑꖌ╎∷⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 94,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "Uploaded Screenshot 2026-08-08 at 11-49-37 Evrythink notes projects focus and time.png",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1786200589467,
+        "icon": null,
+        "id": 59,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_e1021ff45646defbd629823cd52eb04f.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786200583467,
+        "summary": "⁨Astro⁩ (⁨MOD ʖᔑꖌ╎∷⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 96,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "okay bakarım",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1786200592270,
+        "icon": null,
+        "id": 60,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_e1021ff45646defbd629823cd52eb04f.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786200585949,
+        "summary": "⁨Astro⁩ (⁨MOD ʖᔑꖌ╎∷⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 106,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "Uploaded Screenshot 2026-08-08 193546.png",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1786206991132,
+        "icon": null,
+        "id": 64,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_16ffce8c70e3e9cdb03e12d632d3112b.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786206985132,
+        "summary": "⁨M_Ali-Karpuz⁩ (⁨#foundation⁩, ⁨Departments⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 109,
+      "notification": {
+        "actions": [
+          "run",
+          "Run Cachy-Update",
+          "close",
+          "Close"
+        ],
+        "app_name": "Cachy-Update",
+        "body": "277 updates available",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1786209876191,
+        "icon": "cachy-update_updates-available-blue",
+        "id": 65,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1786209870191,
+        "summary": "Cachy-Update",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 111,
+      "notification": {
+        "actions": [],
+        "app_name": "KDE Connect",
+        "body": "Permissions missing: filesystem access",
+        "category": null,
+        "desktop_entry": "org.kde.kdeconnect.daemon",
+        "expiry_wall_ms": 1786213197649,
+        "icon": "dialog-error",
+        "id": 66,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1786213191649,
+        "summary": "Galaxy Tab S9",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 118,
+      "notification": {
+        "actions": [],
+        "app_name": "KDE Connect",
+        "body": "*M_Ali: As\nImage",
+        "category": null,
+        "desktop_entry": "org.kde.kdeconnect.daemon",
+        "expiry_wall_ms": 1786213774541,
+        "icon": "kdeconnect",
+        "id": 73,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_53ee1e90ec562bc536ea2493d3098601.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786213768541,
+        "summary": "Messages",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 138,
+      "notification": {
+        "actions": [
+          "1",
+          "Like",
+          "inline-reply",
+          "Reply"
+        ],
+        "app_name": "KDE Connect",
+        "body": "Bir100Sixteen: toprak\nSent a reel\nSent a reel\nKeremden beklentim\nMehmet Oğuzhan Seçkin\nSent a post\ntoprak\nSent a reel\nSent a reel",
+        "category": null,
+        "desktop_entry": "org.kde.kdeconnect.daemon",
+        "expiry_wall_ms": 1786223676688,
+        "icon": "kdeconnect",
+        "id": 81,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_012a47006926625c30d711fb6f427220.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786223670688,
+        "summary": "Instagram",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 140,
+      "notification": {
+        "actions": [
+          "1",
+          "Like",
+          "inline-reply",
+          "Reply"
+        ],
+        "app_name": "KDE Connect",
+        "body": "Bir100Sixteen: toprak\nSent a reel\nKeremden beklentim\nMehmet Oğuzhan Seçkin\nSent a post\ntoprak\nSent a reel\nSent a reel\nSent a reel",
+        "category": null,
+        "desktop_entry": "org.kde.kdeconnect.daemon",
+        "expiry_wall_ms": 1786223710552,
+        "icon": "kdeconnect",
+        "id": 82,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_012a47006926625c30d711fb6f427220.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786223704552,
+        "summary": "Instagram",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 144,
+      "notification": {
+        "actions": [
+          "1",
+          "Mark as read"
+        ],
+        "app_name": "KDE Connect",
+        "body": "GARANTiBBVA: 0012 ile biten kartiniz internet alisverislerine kapali oldugundan isleminiz gerceklestirilememistir.Kartinizi internet alisverislerine acmak icin ONAY ve kartin son 6 hanesini yazip 3340'a gonderebilir veya BonusFlas, Garanti BBVA Mobil/Internet'ten guncelleyebilirsiniz. B001",
+        "category": null,
+        "desktop_entry": "org.kde.kdeconnect.daemon",
+        "expiry_wall_ms": 1786232353900,
+        "icon": "kdeconnect",
+        "id": 84,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_53ee1e90ec562bc536ea2493d3098601.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786232347900,
+        "summary": "Messages",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 150,
+      "notification": {
+        "actions": [
+          "1",
+          "Dismiss alarm"
+        ],
+        "app_name": "KDE Connect",
+        "body": "Upcoming alarm: Sun 05:42",
+        "category": null,
+        "desktop_entry": "org.kde.kdeconnect.daemon",
+        "expiry_wall_ms": 1786236128749,
+        "icon": "kdeconnect",
+        "id": 87,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 66,
+          "image_file": "i_435c400ca80c6fc19b3d8f1c5ac7bb91.webp",
+          "row_stride": 264,
+          "width": 66
+        },
+        "origin": "external",
+        "received_wall_ms": 1786236122749,
+        "summary": "Clock",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 152,
+      "notification": {
+        "actions": [
+          "1",
+          "Dismiss alarm"
+        ],
+        "app_name": "KDE Connect",
+        "body": "Upcoming alarm: Sun 05:49",
+        "category": null,
+        "desktop_entry": "org.kde.kdeconnect.daemon",
+        "expiry_wall_ms": 1786236550758,
+        "icon": "kdeconnect",
+        "id": 88,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 66,
+          "image_file": "i_435c400ca80c6fc19b3d8f1c5ac7bb91.webp",
+          "row_stride": 264,
+          "width": 66
+        },
+        "origin": "external",
+        "received_wall_ms": 1786236544758,
+        "summary": "Clock",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 162,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "https://tenor.com/view/teto-fumo-spinning-kasane-teto-utau-gif-23200381",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1786239184573,
+        "icon": null,
+        "id": 93,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_a5970039f3aa3510fc3bc86dbece8394.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786239178573,
+        "summary": "Umi",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 166,
+      "notification": {
+        "actions": [
+          "1",
+          "Dismiss alarm"
+        ],
+        "app_name": "KDE Connect",
+        "body": "Upcoming alarm: Sun 05:30",
+        "category": null,
+        "desktop_entry": "org.kde.kdeconnect.daemon",
+        "expiry_wall_ms": 1786240807719,
+        "icon": "kdeconnect",
+        "id": 95,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 66,
+          "image_file": "i_435c400ca80c6fc19b3d8f1c5ac7bb91.webp",
+          "row_stride": 264,
+          "width": 66
+        },
+        "origin": "external",
+        "received_wall_ms": 1786240801719,
+        "summary": "Clock",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 168,
+      "notification": {
+        "actions": [
+          "1",
+          "Dismiss alarm"
+        ],
+        "app_name": "KDE Connect",
+        "body": "Upcoming alarm: Sun 05:32",
+        "category": null,
+        "desktop_entry": "org.kde.kdeconnect.daemon",
+        "expiry_wall_ms": 1786240946431,
+        "icon": "kdeconnect",
+        "id": 96,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 66,
+          "image_file": "i_435c400ca80c6fc19b3d8f1c5ac7bb91.webp",
+          "row_stride": 264,
+          "width": 66
+        },
+        "origin": "external",
+        "received_wall_ms": 1786240923215,
+        "summary": "Clock",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 186,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "OHA",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1786243595439,
+        "icon": null,
+        "id": 99,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_a5970039f3aa3510fc3bc86dbece8394.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786243589439,
+        "summary": "Umi",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 188,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "vesktop",
+        "body": "OHA",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1786243596338,
+        "icon": null,
+        "id": 100,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_30a3d95801d724f3fde8ea3213f4e6f0.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786243590338,
+        "summary": "Umi",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 199,
+      "notification": {
+        "actions": [
+          "1",
+          "Dismiss alarm"
+        ],
+        "app_name": "KDE Connect",
+        "body": "Upcoming alarm: Sun 09:00",
+        "category": null,
+        "desktop_entry": "org.kde.kdeconnect.daemon",
+        "expiry_wall_ms": 1786248007712,
+        "icon": "kdeconnect",
+        "id": 106,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 66,
+          "image_file": "i_435c400ca80c6fc19b3d8f1c5ac7bb91.webp",
+          "row_stride": 264,
+          "width": 66
+        },
+        "origin": "external",
+        "received_wall_ms": 1786248001712,
+        "summary": "Clock",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 201,
+      "notification": {
+        "actions": [
+          "1",
+          "Mark as read"
+        ],
+        "app_name": "KDE Connect",
+        "body": "GARANTiBBVA: 0012 ile biten kartiniz internet alisverislerine kapali oldugundan isleminiz gerceklestirilememistir.Kartinizi internet alisverislerine acmak icin ONAY ve kartin son 6 hanesini yazip 3340'a gonderebilir veya BonusFlas, Garanti BBVA Mobil/Internet'ten guncelleyebilirsiniz. B001\n0012 ile biten kartinizla 09.08.2026 tarihinde 23.95 TL Google Sna isleminiz kartiniz internet alisverislerine kapali oldugundan onaylanamamistir. Kartinizi BonusFlas, Garanti BBVA Internet/Mobil veya 4440333 GarantiBBVA Musteri Iletisim Merkezi'nden internet kullanimina acabilirsiniz. B001",
+        "category": null,
+        "desktop_entry": "org.kde.kdeconnect.daemon",
+        "expiry_wall_ms": 1786249945051,
+        "icon": "kdeconnect",
+        "id": 107,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_53ee1e90ec562bc536ea2493d3098601.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786249939051,
+        "summary": "Messages",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 213,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "Uploaded image.png",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1786265257990,
+        "icon": null,
+        "id": 111,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_d2d7258280a419c00bb9aec1f181f716.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786265251990,
+        "summary": "⁨elrond⁩ (⁨MOD ʖᔑꖌ╎∷⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 215,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "vesktop",
+        "body": "Uploaded image.png",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1786265258736,
+        "icon": null,
+        "id": 112,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_a895d76cf2aedaa46e4b0e77768180a3.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786265252736,
+        "summary": "⁨elrond⁩ (⁨MOD ʖᔑꖌ╎∷⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 220,
+      "notification": {
+        "actions": [],
+        "app_name": "KDE Connect",
+        "body": "iPhone 17 Pro, Macbook ve Samsung Galaxy Z Flip kazanacak şanslılardan biri olabilirsin.🎁 Hemen çekilişe katılmak için 👉",
+        "category": null,
+        "desktop_entry": "org.kde.kdeconnect.daemon",
+        "expiry_wall_ms": 1786266290666,
+        "icon": "kdeconnect",
+        "id": 115,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 66,
+          "image_file": "i_906a841a05a1e20418745c69f056a6fc.webp",
+          "row_stride": 264,
+          "width": 66
+        },
+        "origin": "external",
+        "received_wall_ms": 1786266284666,
+        "summary": "Akbank",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 222,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "cursor",
+        "body": "Open Cursor to view the agent's output.",
+        "category": null,
+        "desktop_entry": "cursor",
+        "expiry_wall_ms": 1786268211390,
+        "icon": null,
+        "id": 116,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1786268205390,
+        "summary": "Done • Site access request",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 224,
+      "notification": {
+        "actions": [],
+        "app_name": "KDE Connect",
+        "body": "Furkan Karakuş: First story in a while: \"My brand new minimalist puzzle game Pight is RELEASED!!! 🥳🥳 You can access the game from th...\"",
+        "category": null,
+        "desktop_entry": "org.kde.kdeconnect.daemon",
+        "expiry_wall_ms": 1786269170761,
+        "icon": "kdeconnect",
+        "id": 117,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_f089bc4586ae3a02e5ad4259e560376a.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786269164761,
+        "summary": "Instagram",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 233,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "https://www.youtube.com/watch?v=D-2zsjJTqN0",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1786274643226,
+        "icon": null,
+        "id": 119,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_06cb36adc9e01e381c598b8776b79e4d.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786274637226,
+        "summary": "⁨Astro⁩ (⁨MOD ʖᔑꖌ╎∷⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 235,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "vesktop",
+        "body": "https://www.youtube.com/watch?v=D-2zsjJTqN0",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1786274644217,
+        "icon": null,
+        "id": 120,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_a698bd61e22be2be409de44c9808e07b.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786274638217,
+        "summary": "⁨Astro⁩ (⁨MOD ʖᔑꖌ╎∷⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 241,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "tam inti gitti elrondun",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1786274662748,
+        "icon": null,
+        "id": 123,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_6252f16518ebca8fb16cbb88e2cbaf60.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786274656748,
+        "summary": "⁨furkankskn⁩ (⁨MOD ʖᔑꖌ╎∷⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 245,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "vesktop",
+        "body": "tam inti gitti elrondun",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1786274664182,
+        "icon": null,
+        "id": 125,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1786274658182,
+        "summary": "⁨furkankskn⁩ (⁨MOD ʖᔑꖌ╎∷⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 247,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "QOWIEQIUOWEJ",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1786274664064,
+        "icon": null,
+        "id": 124,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_6252f16518ebca8fb16cbb88e2cbaf60.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786274658064,
+        "summary": "⁨furkankskn⁩ (⁨MOD ʖᔑꖌ╎∷⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 249,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "vesktop",
+        "body": "QOWIEQIUOWEJ",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1786274664830,
+        "icon": null,
+        "id": 126,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1786274658830,
+        "summary": "⁨furkankskn⁩ (⁨MOD ʖᔑꖌ╎∷⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 251,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "türknet",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1786274668463,
+        "icon": null,
+        "id": 127,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_06cb36adc9e01e381c598b8776b79e4d.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786274662463,
+        "summary": "⁨Astro⁩ (⁨MOD ʖᔑꖌ╎∷⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 253,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "vesktop",
+        "body": "türknet",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1786274669393,
+        "icon": null,
+        "id": 128,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_a698bd61e22be2be409de44c9808e07b.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786274663393,
+        "summary": "⁨Astro⁩ (⁨MOD ʖᔑꖌ╎∷⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 255,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "issues",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1786274671636,
+        "icon": null,
+        "id": 129,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_06cb36adc9e01e381c598b8776b79e4d.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786274665636,
+        "summary": "⁨Astro⁩ (⁨MOD ʖᔑꖌ╎∷⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 257,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "vesktop",
+        "body": "issues",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1786274671802,
+        "icon": null,
+        "id": 130,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_a698bd61e22be2be409de44c9808e07b.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786274665802,
+        "summary": "⁨Astro⁩ (⁨MOD ʖᔑꖌ╎∷⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 259,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "babasi boya yapcakmis",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1786274675390,
+        "icon": null,
+        "id": 131,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_6252f16518ebca8fb16cbb88e2cbaf60.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786274669390,
+        "summary": "⁨furkankskn⁩ (⁨MOD ʖᔑꖌ╎∷⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 261,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "vesktop",
+        "body": "babasi boya yapcakmis",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1786274676161,
+        "icon": null,
+        "id": 132,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1786274670161,
+        "summary": "⁨furkankskn⁩ (⁨MOD ʖᔑꖌ╎∷⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 266,
+      "notification": {
+        "actions": [],
+        "app_name": "Studio",
+        "body": "Running Android Studio build on a connected physical device.. Agent finished in 21 sec, 885 ms",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1786274768314,
+        "icon": "/opt/android-studio/bin/studio.svg",
+        "id": 135,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1786274762314,
+        "summary": "Agent finished",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 270,
+      "notification": {
+        "actions": [
+          "1",
+          "Mark As Read",
+          "2",
+          "Mute 1H",
+          "inline-reply",
+          "Reply"
+        ],
+        "app_name": "KDE Connect",
+        "body": "MOD ʖᔑꖌ╎∷: Astro\nhttps://www.youtube.com/watch?v=D-2zsjJTqN0\n⁨@elrond⁩\nfurkankskn\ntam inti gitti elrondun",
+        "category": null,
+        "desktop_entry": "org.kde.kdeconnect.daemon",
+        "expiry_wall_ms": 1786275141477,
+        "icon": "kdeconnect",
+        "id": 136,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_7d9cefb33225888f314211cef508bb2d.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786275135477,
+        "summary": "Discord",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 286,
+      "notification": {
+        "actions": [],
+        "app_name": "Studio",
+        "body": "Running Android Studio build on a connected physical device.. Agent finished in 36 sec, 162 ms",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1786276539986,
+        "icon": "/opt/android-studio/bin/studio.svg",
+        "id": 142,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1786276533986,
+        "summary": "Agent finished",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 291,
+      "notification": {
+        "actions": [],
+        "app_name": "Studio",
+        "body": "Running Android Studio build on a connected physical device.. Agent finished in 57 sec, 653 ms",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1786276654749,
+        "icon": "/opt/android-studio/bin/studio.svg",
+        "id": 143,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1786276648749,
+        "summary": "Agent finished",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 296,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "aboo izlenir lan",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1786276884824,
+        "icon": null,
+        "id": 144,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_d2d7258280a419c00bb9aec1f181f716.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786276878824,
+        "summary": "⁨elrond⁩ (⁨MOD ʖᔑꖌ╎∷⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 299,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "vesktop",
+        "body": "aboo izlenir lan",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1786276885403,
+        "icon": null,
+        "id": 145,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_a895d76cf2aedaa46e4b0e77768180a3.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786276879403,
+        "summary": "⁨elrond⁩ (⁨MOD ʖᔑꖌ╎∷⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 301,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "evet malese",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1786276890081,
+        "icon": null,
+        "id": 147,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_d2d7258280a419c00bb9aec1f181f716.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786276884081,
+        "summary": "⁨elrond⁩ (⁨MOD ʖᔑꖌ╎∷⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 303,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "vesktop",
+        "body": "evet malese",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1786276891056,
+        "icon": null,
+        "id": 148,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_a895d76cf2aedaa46e4b0e77768180a3.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786276885056,
+        "summary": "⁨elrond⁩ (⁨MOD ʖᔑꖌ╎∷⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 307,
+      "notification": {
+        "actions": [],
+        "app_name": "System Notifications",
+        "body": "SAMSUNG SAMSUNG_Android has been connected.",
+        "category": null,
+        "desktop_entry": "org.kde.kded6",
+        "expiry_wall_ms": 1786281702359,
+        "icon": "drive-removable-media-usb",
+        "id": 149,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1786281696359,
+        "summary": "USB Device Detected",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 309,
+      "notification": {
+        "actions": [],
+        "app_name": "System Notifications",
+        "body": "SAMSUNG SAMSUNG_Android has been disconnected.",
+        "category": null,
+        "desktop_entry": "org.kde.kded6",
+        "expiry_wall_ms": 1786281703871,
+        "icon": "drive-removable-media-usb",
+        "id": 150,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1786281697871,
+        "summary": "USB Device Removed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 311,
+      "notification": {
+        "actions": [],
+        "app_name": "System Notifications",
+        "body": "SAMSUNG SAMSUNG_Android has been connected.",
+        "category": null,
+        "desktop_entry": "org.kde.kded6",
+        "expiry_wall_ms": 1786281704551,
+        "icon": "drive-removable-media-usb",
+        "id": 151,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1786281698551,
+        "summary": "USB Device Detected",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 318,
+      "notification": {
+        "actions": [],
+        "app_name": "Studio",
+        "body": "Running Android Studio build on a connected physical device.. Agent finished in 2 min, 46 sec",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1786283865770,
+        "icon": "/opt/android-studio/bin/studio.svg",
+        "id": 154,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1786283859770,
+        "summary": "Agent finished",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 328,
+      "notification": {
+        "actions": [],
+        "app_name": "System Notifications",
+        "body": "SAMSUNG SAMSUNG_Android has been disconnected.",
+        "category": null,
+        "desktop_entry": "org.kde.kded6",
+        "expiry_wall_ms": 1786285806370,
+        "icon": "drive-removable-media-usb",
+        "id": 158,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1786285800370,
+        "summary": "USB Device Removed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 332,
+      "notification": {
+        "actions": [
+          "1",
+          "Like",
+          "inline-reply",
+          "Reply"
+        ],
+        "app_name": "KDE Connect",
+        "body": "Bir100Sixteen: Mehmet Oğuzhan Seçkin\nSent a post\ntoprak\nSent a reel\nSent a reel\nSent a reel\nSent a reel",
+        "category": null,
+        "desktop_entry": "org.kde.kdeconnect.daemon",
+        "expiry_wall_ms": 1786287155018,
+        "icon": "kdeconnect",
+        "id": 160,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_012a47006926625c30d711fb6f427220.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786287149018,
+        "summary": "Instagram",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 340,
+      "notification": {
+        "actions": [],
+        "app_name": "KDE Connect",
+        "body": "Batman Merkez’s forecast: High 38° · Low 23° Partly cloudy Batman Merkez, Batman, TR",
+        "category": null,
+        "desktop_entry": "org.kde.kdeconnect.daemon",
+        "expiry_wall_ms": 1786288683500,
+        "icon": "kdeconnect",
+        "id": 163,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_252f629d6ed800ac23e868a4daeb5f03.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786288677500,
+        "summary": "Pixel Weather",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 341,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "https://www.youtube.com/watch?v=QR9jgSZbeXY",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1786288687397,
+        "icon": null,
+        "id": 164,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_06cb36adc9e01e381c598b8776b79e4d.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786288681397,
+        "summary": "⁨Astro⁩ (⁨MOD ʖᔑꖌ╎∷⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 357,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "⁨@Astro⁩ ⁨@tenti⁩ bisey mi oldu biliyonuz mu siz",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1786294252161,
+        "icon": null,
+        "id": 170,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_d2d7258280a419c00bb9aec1f181f716.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786294246161,
+        "summary": "⁨elrond⁩ (⁨MOD ʖᔑꖌ╎∷⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 366,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "idk bilgim yok",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1786294998429,
+        "icon": null,
+        "id": 172,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_06cb36adc9e01e381c598b8776b79e4d.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786294992429,
+        "summary": "⁨Astro⁩ (⁨MOD ʖᔑꖌ╎∷⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 371,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "arkdan cikarmasini anlamadik zaten",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1786295016718,
+        "icon": null,
+        "id": 174,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_6252f16518ebca8fb16cbb88e2cbaf60.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786295010718,
+        "summary": "⁨furkankskn⁩ (⁨MOD ʖᔑꖌ╎∷⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 373,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "idk bende daha takılmıyom",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1786295031918,
+        "icon": null,
+        "id": 175,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_07e5b21c108bece567c3a7425efb5115.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786295025918,
+        "summary": "⁨tenti⁩ (⁨MOD ʖᔑꖌ╎∷⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 378,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "sanmiyorum",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1786295135420,
+        "icon": null,
+        "id": 177,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_a0dc18f151d3c62ff244c8596f68baf1.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786295129420,
+        "summary": "⁨Turna⁩ (⁨MOD ʖᔑꖌ╎∷⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 380,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "furkan",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1786295145416,
+        "icon": null,
+        "id": 178,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_a0dc18f151d3c62ff244c8596f68baf1.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786295139416,
+        "summary": "⁨Turna⁩ (⁨MOD ʖᔑꖌ╎∷⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 382,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "senin bir kazma vardi ya",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1786295151238,
+        "icon": null,
+        "id": 179,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_a0dc18f151d3c62ff244c8596f68baf1.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786295145238,
+        "summary": "⁨Turna⁩ (⁨MOD ʖᔑꖌ╎∷⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 384,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "artik  yok",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1786295154993,
+        "icon": null,
+        "id": 180,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_a0dc18f151d3c62ff244c8596f68baf1.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786295148993,
+        "summary": "⁨Turna⁩ (⁨MOD ʖᔑꖌ╎∷⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 386,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "elrondda",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1786295156921,
+        "icon": null,
+        "id": 181,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_6252f16518ebca8fb16cbb88e2cbaf60.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786295150921,
+        "summary": "⁨furkankskn⁩ (⁨MOD ʖᔑꖌ╎∷⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 388,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": ":SpongeSad:",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1786295161465,
+        "icon": null,
+        "id": 182,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_a0dc18f151d3c62ff244c8596f68baf1.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786295155465,
+        "summary": "⁨Turna⁩ (⁨MOD ʖᔑꖌ╎∷⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 393,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "oyuzden  merak ettik zaten",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1786295188160,
+        "icon": null,
+        "id": 184,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_6252f16518ebca8fb16cbb88e2cbaf60.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786295182160,
+        "summary": "⁨furkankskn⁩ (⁨MOD ʖᔑꖌ╎∷⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 395,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "patlayan bir yarasa tarafindan kamikazelendim",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1786295190086,
+        "icon": null,
+        "id": 185,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_a0dc18f151d3c62ff244c8596f68baf1.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786295184086,
+        "summary": "⁨Turna⁩ (⁨MOD ʖᔑꖌ╎∷⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 398,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "bizi onlara kiyasla daha degersiz goruyor yani",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1786295494422,
+        "icon": null,
+        "id": 186,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_d2d7258280a419c00bb9aec1f181f716.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786295488422,
+        "summary": "⁨elrond⁩ (⁨MOD ʖᔑꖌ╎∷⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 402,
+      "notification": {
+        "actions": [
+          "1",
+          "Mark As Read",
+          "2",
+          "Mute 1H",
+          "inline-reply",
+          "Reply"
+        ],
+        "app_name": "KDE Connect",
+        "body": "MOD ʖᔑꖌ╎∷: elrond\nbizi onlara kiyasla daha degersiz goruyor yani\nbaska aciklamasi yok",
+        "category": null,
+        "desktop_entry": "org.kde.kdeconnect.daemon",
+        "expiry_wall_ms": 1786295497379,
+        "icon": "kdeconnect",
+        "id": 187,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_7d9cefb33225888f314211cef508bb2d.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786295491379,
+        "summary": "Discord",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 414,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "cikar icin sohbet muhabbet ediyor",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1786295529960,
+        "icon": null,
+        "id": 192,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_d2d7258280a419c00bb9aec1f181f716.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786295523960,
+        "summary": "⁨elrond⁩ (⁨MOD ʖᔑꖌ╎∷⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 419,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "hadi eyvallah beraber is yaptigin adamlar eyvallah",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1786295831408,
+        "icon": null,
+        "id": 194,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_d2d7258280a419c00bb9aec1f181f716.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786295825408,
+        "summary": "⁨elrond⁩ (⁨MOD ʖᔑꖌ╎∷⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 424,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "ama topluca hicbir sey demeden arkadasliktan silmek direkt ayip yani",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1786295847278,
+        "icon": null,
+        "id": 196,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_d2d7258280a419c00bb9aec1f181f716.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786295841278,
+        "summary": "⁨elrond⁩ (⁨MOD ʖᔑꖌ╎∷⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 433,
+      "notification": {
+        "actions": [
+          "1",
+          "Mute Call"
+        ],
+        "app_name": "KDE Connect",
+        "body": "Incoming call from Mahsum dayı",
+        "category": null,
+        "desktop_entry": "org.kde.kdeconnect.daemon",
+        "expiry_wall_ms": 0,
+        "icon": "call-start",
+        "id": 200,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1786296683030,
+        "summary": "Mi 9T",
+        "timeout": 0,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 443,
+      "notification": {
+        "actions": [],
+        "app_name": "KDE Connect",
+        "body": "Enpara Cep Şubesi: Vadesiz TL hesabınıza 09/08/2026 tarihinde Remziye Suna tarafından yapılan para transferi (FAST) sonucunda 750,00 TL giriş oldu. İşlem sonrası hesap bakiyesi: 750,04 TL",
+        "category": null,
+        "desktop_entry": "org.kde.kdeconnect.daemon",
+        "expiry_wall_ms": 1786296943769,
+        "icon": "kdeconnect",
+        "id": 204,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 66,
+          "image_file": "i_3a4561c6034727c1f06251233d2c2591.webp",
+          "row_stride": 264,
+          "width": 66
+        },
+        "origin": "external",
+        "received_wall_ms": 1786296937769,
+        "summary": "Enpara",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 446,
+      "notification": {
+        "actions": [
+          "1",
+          "Like",
+          "inline-reply",
+          "Reply"
+        ],
+        "app_name": "KDE Connect",
+        "body": "ece: ben anon takilmayi seviyorum\nsenin anonim\nSent a sticker\nbir sey sorcamm\nbedrock girebiliyo muyuz artik",
+        "category": null,
+        "desktop_entry": "org.kde.kdeconnect.daemon",
+        "expiry_wall_ms": 1786296956615,
+        "icon": "kdeconnect",
+        "id": 205,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1786296950615,
+        "summary": "Instagram",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 447,
+      "notification": {
+        "actions": [],
+        "app_name": "KDE Connect",
+        "body": "Enpara Bank hesabınıza para girişi olmuştur. İncelemek için tıklayınız.",
+        "category": null,
+        "desktop_entry": "org.kde.kdeconnect.daemon",
+        "expiry_wall_ms": 1786296956874,
+        "icon": "kdeconnect",
+        "id": 206,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 66,
+          "image_file": "i_8c2d307e163f2970017d448f551c5d9c.webp",
+          "row_stride": 264,
+          "width": 66
+        },
+        "origin": "external",
+        "received_wall_ms": 1786296950874,
+        "summary": "Yapı Kredi Mobil",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 450,
+      "notification": {
+        "actions": [
+          "1",
+          "Like",
+          "inline-reply",
+          "Reply"
+        ],
+        "app_name": "KDE Connect",
+        "body": "ece: ben anon takilmayi seviyorum\nsenin anonim\nSent a sticker\nbir sey sorcamm\nbedrock girebiliyo muyuz artik\nen son 8 agustosta demislerdi",
+        "category": null,
+        "desktop_entry": "org.kde.kdeconnect.daemon",
+        "expiry_wall_ms": 1786296969182,
+        "icon": "kdeconnect",
+        "id": 207,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_012289ea1740f479e9122e607b4513c6.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786296963182,
+        "summary": "Instagram",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 452,
+      "notification": {
+        "actions": [
+          "1",
+          "Like",
+          "inline-reply",
+          "Reply"
+        ],
+        "app_name": "KDE Connect",
+        "body": "ece: ne zaman gelcek ya",
+        "category": null,
+        "desktop_entry": "org.kde.kdeconnect.daemon",
+        "expiry_wall_ms": 1786297214900,
+        "icon": "kdeconnect",
+        "id": 208,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_012289ea1740f479e9122e607b4513c6.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786297208900,
+        "summary": "Instagram",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 455,
+      "notification": {
+        "actions": [],
+        "app_name": "KDE Connect",
+        "body": "Enpara Cep Şubesi: Güvenliğiniz için lütfen bu şifreyi kimseyle paylaşmayın. 09/08/2026-20:42 tarihinde PAYNKOLAY/SURNET ILE firması üzerinden gerçekleştirmekte olduğunuz 750,00 TL tutarındaki harcamanız için şifreniz:776012 Referans: SPUJFHAW",
+        "category": null,
+        "desktop_entry": "org.kde.kdeconnect.daemon",
+        "expiry_wall_ms": 1786297349137,
+        "icon": "kdeconnect",
+        "id": 209,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 66,
+          "image_file": "i_3a4561c6034727c1f06251233d2c2591.webp",
+          "row_stride": 264,
+          "width": 66
+        },
+        "origin": "external",
+        "received_wall_ms": 1786297343137,
+        "summary": "Enpara",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 458,
+      "notification": {
+        "actions": [],
+        "app_name": "KDE Connect",
+        "body": "Enpara Cep Şubesi: Vadesiz TL hesabınıza bağlı 0822 ile biten Encard'ınızla 09/08/2026 tarihinde PAYNKO /SURNET ILETISIM DIYARBAKIR TR firmasında 750,00 TL tutarında harcama yapıldı.",
+        "category": null,
+        "desktop_entry": "org.kde.kdeconnect.daemon",
+        "expiry_wall_ms": 1786297376932,
+        "icon": "kdeconnect",
+        "id": 210,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 66,
+          "image_file": "i_3a4561c6034727c1f06251233d2c2591.webp",
+          "row_stride": 264,
+          "width": 66
+        },
+        "origin": "external",
+        "received_wall_ms": 1786297370932,
+        "summary": "Enpara",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 459,
+      "notification": {
+        "actions": [],
+        "app_name": "KDE Connect",
+        "body": "Enpara Cep Şubesi: Az önce gerçekleşen işleminiz ile birlikte Vadesiz TL hesabınızın bakiyesi 100,00 TL'nin altına düştü. Hesap bakiyeniz: 0,04 TL.",
+        "category": null,
+        "desktop_entry": "org.kde.kdeconnect.daemon",
+        "expiry_wall_ms": 1786297376999,
+        "icon": "kdeconnect",
+        "id": 211,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 66,
+          "image_file": "i_3a4561c6034727c1f06251233d2c2591.webp",
+          "row_stride": 264,
+          "width": 66
+        },
+        "origin": "external",
+        "received_wall_ms": 1786297370999,
+        "summary": "Enpara",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 465,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "bende anlamadım",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1786297757763,
+        "icon": null,
+        "id": 213,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_06cb36adc9e01e381c598b8776b79e4d.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1786297751763,
+        "summary": "⁨Astro⁩ (⁨MOD ʖᔑꖌ╎∷⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 467,
+      "notification": {
+        "actions": [
+          "run",
+          "Run Cachy-Update",
+          "close",
+          "Close"
+        ],
+        "app_name": "Cachy-Update",
+        "body": "282 updates available",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1786297954062,
+        "icon": "cachy-update_updates-available-blue",
+        "id": 214,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1786297948062,
+        "summary": "Cachy-Update",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 469,
+      "notification": {
+        "actions": [
+          "run",
+          "Run Cachy-Update",
+          "close",
+          "Close"
+        ],
+        "app_name": "Cachy-Update",
+        "body": "284 updates available",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1786304764649,
+        "icon": "cachy-update_updates-available-blue",
+        "id": 215,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1786304758649,
+        "summary": "Cachy-Update",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 471,
+      "notification": {
+        "actions": [],
+        "app_name": "CachyOS Update",
+        "body": "Reboot is recommended due to the upgrade of core system package(s).",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1786305307941,
+        "icon": "system-reboot",
+        "id": 216,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1786305297941,
+        "summary": "Reboot recommended!",
+        "timeout": 10000,
+        "urgency": "critical"
+      },
+      "seen": false
+    }
+  ],
+  "next_id": 217,
+  "version": 2
+}
